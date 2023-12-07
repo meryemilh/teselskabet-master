@@ -1,0 +1,57 @@
+/*************** Reset *********************/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+body {
+  background-color: #fff9ed;
+}
+
+main {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+footer {
+  color: black;
+}
+
+/* TEKST START*/
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #433524;
+  font-size: 2rem;
+}
+
+h2 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #433524;
+  font-size: 1.5rem;
+}
+
+p {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #433524;
+  font-size: 1rem;
+}
+
+a {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #433524;
+  font-size: 1rem;
+}
+
+a:hover {
+  color: #7c816b;
+}
+
+@media (min-width: 800px) {
+}
